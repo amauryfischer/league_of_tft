@@ -7,4 +7,4 @@
 
 ## Team builder
 
-![vladimir](https://static1.millenium.org/articles/7/34/86/27/@/1182456-vlad-article_4_t-1.PNG)
+[![vladimir](https://static1.millenium.org/articles/7/34/86/27/@/1182456-vlad-article_4_t-1.PNG)](./team_composition/ocean_mage_mystic.md)
