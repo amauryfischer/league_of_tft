@@ -1,5 +1,10 @@
 # league of tft
 
-# usefull links
+## Usefull links
+### Items
+![items](https://progameguides.com/wp-content/uploads/2019/06/tft-full-item-cheat-sheet-set2-816x368.png)
+### Champions
 
-[items](https://progameguides.com/wp-content/uploads/2019/06/tft-full-item-cheat-sheet-set2-816x368.png)
+## Team builder
+
+![vladimir](https://static1.millenium.org/articles/7/34/86/27/@/1182456-vlad-article_4_t-1.PNG)
