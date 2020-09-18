@@ -1,11 +1,12 @@
 # league of tft
 
-## Usefull links
-### Items
-![items](https://progameguides.com/wp-content/uploads/2019/06/tft-full-item-cheat-sheet-set2-816x368.png)
-### Champions
 
-## Team builder
+## Elu / Chosen
 
-[![vladimir](https://static1.millenium.org/articles/7/34/86/27/@/1182456-vlad-article_4_t-1.PNG)](team_composition/ocean_mage_mystic.md) [![Syndra](https://static1.millenium.org/articles/7/34/86/27/@/1182477-syndra-article_4_t-1.PNG)](team_composition/ocean_mage_mystic.md)
-
+- [![vladimir](https://static1-fr.millenium.gg/articles/7/37/10/57/@/1408570-dusk-64x64-1.png)](team_composition/dusk.md) [Être du crépuscule / Dusk](team_composition/dusk.md)
+- [![vladimir](https://static1-fr.millenium.gg/articles/7/37/10/57/@/1408572-elderwood-64x64-1.png)](team_composition/elderwood.md) 
+[Sylvestre / Elderwood](team_composition/elderwood.md)
+- [![vladimir](https://static1-fr.millenium.gg/articles/8/37/10/58/@/1408719-brawler-64x64-1.png)](team_composition/brawler.md) 
+[Bagarreur / Brawler](team_composition/brawler.md)
+- [![vladimir](https://static1-fr.millenium.gg/articles/7/37/10/57/@/1408568-cultist-64x64-1.png)](team_composition/cultist.md) 
+[Fanatique / Cultist]((team_composition/cultist.md) )
