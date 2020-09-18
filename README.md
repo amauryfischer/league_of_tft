@@ -12,4 +12,4 @@
 [Fanatique / Cultist]((team_composition/cultist.md) )
 - [![tireur_elite](https://static1-fr.millenium.gg/articles/8/37/10/58/@/1408727-sharpshooter-64x64-1.png)](team_composition/sharpshooter.md) [Tireur élite / Sharpshooter](team_composition/sharpshooter.md)
 - [![shade](https://static1-fr.millenium.gg/articles/8/37/10/58/@/1408726-shade-64x64-1.png)](team_composition/shade.md) [Ombre / Shade](team_composition/shade.md)
-- [![enlighted](https://static1-fr.millenium.gg/articles/7/37/10/57/@/1408571-enlightened-64x64-1.png)](team_composition/enlightened.md) [Sage / Enlightened](team_composition/enlightened)
+- [![enlighted](https://static1-fr.millenium.gg/articles/7/37/10/57/@/1408571-enlightened-64x64-1.png)](team_composition/enlightened.md) [Sage / Enlightened](team_composition/enlightened.md)
