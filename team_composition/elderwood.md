@@ -1,6 +1,2 @@
 [retour / back](../README.md)
-# level 7
-![elderwood](https://i.ibb.co/d4TK0vr/2.png)
-
-
-## level 8 Add Kindred or Lux
+![elderwood](https://i.ibb.co/S5vX6qf/elderwood.png)
